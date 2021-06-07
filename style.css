@@ -1,0 +1,54 @@
+.page-wrapper{
+    width: 97%;
+    height: 94vh;
+    border: 1px solid;
+    margin: auto;
+    padding: 10px;
+}
+
+.first-box{
+    border: 1px solid green;
+    padding: 10px;
+}
+
+.box1{
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+.box2{
+    border: 1px solid blue;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.box-inner{
+    width: 80%;
+    padding:13px;
+    background-color: greenyellow;
+    margin: auto;
+}
+
+.big-box{
+    border: 1px solid;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.box3{
+    border: 1px solid green;
+    padding: 5px;
+}
+
+.box3-inner{
+    height: 45vh;
+    width: 80%;
+    background-color: greenyellow;
+    margin: auto;
+    padding: 13px;
+}
+.last-box{
+    border:1px solid;
+    padding:10px;
+    margin-top:15px;
+} 
